@@ -1,0 +1,14 @@
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\bin\x86\Debug\InterfazCompilador.exe.config
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\bin\x86\Debug\InterfazCompilador.exe
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\bin\x86\Debug\InterfazCompilador.pdb
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\InterfazCompilador.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\MainWindow.g.cs
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\App.g.cs
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\InterfazCompilador_MarkupCompile.cache
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\InterfazCompilador_MarkupCompile.lref
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\MainWindow.baml
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\InterfazCompilador.g.resources
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\InterfazCompilador.Properties.Resources.resources
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\InterfazCompilador.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\InterfazCompilador.exe
+C:\Users\angel\Desktop\CUCEI\Seminario Traductores II\InterfazCompilador\InterfazCompilador\obj\x86\Debug\InterfazCompilador.pdb

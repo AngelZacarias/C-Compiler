@@ -1,0 +1,10 @@
+begin
+	real d;
+	entero x;
+	entero y;
+	x := 4;
+	y := 34;
+	if ( x <= 5 )
+		d := y * 2.2;
+	end;
+end
